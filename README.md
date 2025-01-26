@@ -1,8 +1,8 @@
 # AI Stock Analysis Tool
 
-![AI Stock Analysis](D:/Python/StockAnalysis/AI-Stock-Analysis.png)
+![AI Stock Analysis](./AI-Stock-Analysis.png)
 
-![AI Stock Analysis](D:/Python/StockAnalysis/AI-analysis.png)
+![AI Stock Analysis](./AI-analysis.png)
 
 ## Disclaimer
 
